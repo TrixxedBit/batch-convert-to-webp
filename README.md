@@ -1,5 +1,5 @@
 # Note!
-This is a fixed version of rene78's that just rplaces the cwebp.exe with a newer version from (1.4.0)
+This is a fixed version of rene78's that just replaces the cwebp.exe with a newer version from (1.4.0)
 # Batch convert to .webp
 The script in this repository converts all images within a designated folder into the contemporary WebP format. No need to install software or upload your images to potentially dodgy conversion websites.
 
